@@ -1,1 +1,8 @@
 - Dolphin
+  - [GitHub](https://github.com/dolphin-emu/dolphin)
+  - [Dolphin-Enhanced](https://github.com/Gamer64ytb/Dolphin-Enhanced)
+  - DolphiniOS
+    - [GitHub](https://github.com/OatmealDome/dolphin-ios)
+    - [Website](https://dolphinios.oatmealdome.me/)
+  - [Dolphin MMJR2 - VBI Fork](https://github.com/Medard22/Dolphin-MMJR2-VBI/releases)
+  - [DolphinEV (VR)](https://github.com/coccofresco/dolphinEV)
