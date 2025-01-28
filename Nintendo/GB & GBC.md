@@ -1,1 +1,16 @@
-
+- [SameBoy](https://github.com/LIJI32/SameBoy)
+- [Gearboy](https://github.com/drhelius/Gearboy)
+- [ChillyGB](https://github.com/AuroraViola/ChillyGB/releases)
+- GBC.emu
+  - [GitHub](https://github.com/Rakashazi/emu-ex-plus-alpha)
+  - [Play Store](https://play.google.com/store/apps/details?id=com.explusalpha.GbcEmu&hl=en_US)
+- Pizza Boy C
+  - [Basic](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboy&hl=en_US)
+  - [Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboypro) 
+- [GBCC](https://play.google.com/store/apps/details?id=com.philj56.gbcc&hl=en-US)
+- John GBC
+  - [Lite](https://play.google.com/store/apps/details?id=com.johnemulators.johngbclite)
+  - [Full](https://play.google.com/store/apps/details?id=com.johnemulators.johngbc) 
+- MyOldBoy!
+  - [Lite](https://play.google.com/store/apps/details?id=com.fastemulator.gbcfree)
+  - [Full](https://play.google.com/store/apps/details?id=com.fastemulator.gbc)
