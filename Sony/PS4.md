@@ -1,1 +1,9 @@
-
+- [shadPS4](https://shadps4.net/)
+  - [GitHub](https://github.com/shadps4-emu/shadPS4)
+  - [Game Compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility)
+- psOff
+  - [Compatibility](https://github.com/SysRay/psOff_compatibility)
+- [RPCSX](https://github.com/RPCSX/rpcsx)
+- [orbital](https://github.com/AlexAltea/orbital)
+- [Kyty](https://github.com/InoriRus/Kyty)
+- [fpPS4](https://github.com/red-prig/fpPS4)
