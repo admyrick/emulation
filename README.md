@@ -28,7 +28,7 @@
   - [Android](https://github.com/admyrick/emulation/blob/main/Mobile/Android.md)
   - [iOS](https://github.com/admyrick/emulation/blob/main/Mobile/iOS.md)
 - **[Multi-System](https://github.com/admyrick/emulation/tree/main/Multi-System)**
-  - [ToC](https://github.com/admyrick/emulation/blob/main/Multi-System/00%20ToC.md)\
+  - [ToC](https://github.com/admyrick/emulation/blob/main/Multi-System/00%20ToC.md)
 - **[NEC](https://github.com/admyrick/emulation/tree/main/NEC)**
   - [PC Engine/TurboGrafx](https://github.com/admyrick/emulation/blob/main/NEC/PC-Engine%20%26%20TurboGrafx.md)
 - **[Nintendo](https://github.com/admyrick/emulation/tree/main/Nintendo)**
