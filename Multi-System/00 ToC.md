@@ -31,3 +31,4 @@
 - [NiN10](https://apps.apple.com/us/app/nin10-snes-nes-gb-emulator/id6503959130)
 - [higan](https://github.com/higan-emu/higan)
 - [Pizza Boy SC Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboyscpro&hl=en-US&ah=3wYXQ0V9nHwvtDa9vzBvikz_jjE)
+- [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m)
