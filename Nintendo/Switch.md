@@ -1,4 +1,6 @@
-- Citron
+- [Citron](https://citron-emu.org/)
+  - [Git Releases](https://git.citron-emu.org/Citron/Citron/releases) 
+- Citron+
 - Sudachi
 - Yuzu
 - Ryujinx
