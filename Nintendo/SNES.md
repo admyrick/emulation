@@ -1,1 +1,6 @@
-
+- SNES9x
+  - [GitHub](https://github.com/snes9xgit/snes9x)
+  - [Website](https://www.snes9x.com/)
+- [SNES9x EX+](https://play.google.com/store/apps/details?id=com.explusalpha.Snes9xPlus&hl=en_US)
+- [bsnes](https://github.com/bsnes-emu/bsnes)
+  - [bsnes-hd](https://github.com/DerKoun/bsnes-hd) 
