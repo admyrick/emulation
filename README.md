@@ -1,11 +1,13 @@
 # Emulators
 
 ## Guide
-🍎 - Mac
-📱 - iPhone
-🤖 - Android
-🐧 - Linux
-🖥️ - Windows
+| Symbol | Platform |
+|--------|----------|
+| 🤖      | Android  |
+| 📱      | iPhone   |
+| 🐧      | Linux    |
+| 🍎      | Mac      |
+| 💾      | Windows  |
 
 ## Table of Contents
 - **[Atari](https://github.com/admyrick/emulation/tree/main/Atari)**
