@@ -1,1 +1,5 @@
-
+- [Flycast](https://github.com/flyinghead/flycast)
+  - [CI Builds](https://flyinghead.github.io/flycast-builds/)
+  - [Texture Pack List](https://www.reddit.com/r/Flycast_texture_packs/comments/1hibzel/master_texture_pack_list_read_me_first/)
+- Flycast Dojo
+- [Redream](https://redream.io/download)
