@@ -1,5 +1,12 @@
 # Emulators
 
+## Guide
+🍎 - Mac
+📱 - iPhone
+🤖 - Android
+🐧 - Linux
+🖥️ - Windows
+
 ## Table of Contents
 - **[Atari](https://github.com/admyrick/emulation/tree/main/Atari)**
   - [400/800/ST](https://github.com/admyrick/emulation/blob/main/Atari/400-800-ST.md)
