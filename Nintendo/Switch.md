@@ -21,6 +21,7 @@
 - [Citron](https://citron-emu.org/)
   - [Git Releases](https://git.citron-emu.org/Citron/Citron/releases)
   - [GitHub Fork](https://github.com/citron-emu/citron)
+  - [Citron AppImage](https://github.com/pkgforge-dev/Citron-AppImage)
   - [Citron+]
 - Ryubing
   - [Stable](https://github.com/Ryubing/Ryujinx)
