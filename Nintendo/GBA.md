@@ -12,3 +12,5 @@
 - [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance)
 - GBA4iOS
   - [Website](http://www.gba4iosapp.com/)
+- [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance)
+- [mGBA](https://github.com/mgba-emu/mgba)
