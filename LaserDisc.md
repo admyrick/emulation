@@ -1,3 +1,3 @@
-- DAPHNE
-- Dirk Simple
-- SINGE
+- [DAPHNE](http://www.daphne-emu.com/site3/index_hi.php)
+- [Dirk Simple](https://github.com/icculus/DirkSimple)
+- [SINGE](https://kangaroopunch.com/software/singe)
