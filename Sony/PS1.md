@@ -1,1 +1,13 @@
-
+- ePSXe
+  - [Website](https://epsxe.com/)
+  - [Downloads](https://www.epsxe.com/download.php)
+  - [Play Store](https://play.google.com/store/apps/details?id=com.epsxe.ePSXe)
+- DuckStation
+  -  [Website](https://www.duckstation.org/)
+  -  [Play Store](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation&hl=en_AU&gl=US)
+  -  [GitHub](https://github.com/stenzek/duckstation/releases)
+- PCSX-Redux
+  - [GitHub](https://github.com/grumpycoders/pcsx-redux)
+  - [Website](https://pcsx-redux.consoledev.net/)
+- Gamma
+  - [App Store](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870) 
