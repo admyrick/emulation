@@ -1,1 +1,5 @@
-
+- PPSSPP
+  - [GitHub](https://github.com/hrydgard/ppsspp)
+  - [Website](https://www.ppsspp.org/)
+  - [Play Store](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en_US)
+  - [App Store](https://apps.apple.com/us/app/ppsspp-psp-emulator/id6496972903) 
