@@ -1,0 +1,14 @@
+- Pizza Boy A
+  - [Basic](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygba)
+  - [Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygbapro) 
+- GBA.emu
+- My Boy!
+  - [Lite](https://play.google.com/store/apps/details?id=com.fastemulator.gbafree)
+  - [Full](https://play.google.com/store/apps/details?id=com.fastemulator.gba) 
+- John GBA
+  - [Lite](https://play.google.com/store/apps/details?id=com.johnemulators.johngbalite)
+  - [Full](https://play.google.com/store/apps/details?id=com.johnemulators.johngba) 
+- [Visual Boy Advance](https://github.com/visualboyadvance-m/visualboyadvance-m)
+- [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance)
+- GBA4iOS
+  - [Website](http://www.gba4iosapp.com/)
