@@ -1,1 +1,6 @@
-
+- [DeSmuME](https://github.com/TASEmulators/desmume)
+- [melonDS](https://github.com/melonDS-emu/melonDS)
+  - [melonDS Nightly](https://github.com/rafaelvcaetano/melonDS-android/releases/tag/nightly-release)
+  - [melonDS-Android](https://github.com/rafaelvcaetano/melonDS-android)
+- [NooDS](https://github.com/Hydr8gon/NooDS)
+- [iNDS](https://github.com/iNDS-Team/iNDS)
