@@ -1,4 +1,23 @@
 ## Emulators
+| Emulator | Active? | Platform(s) |   |   |
+|----------|---------|-------------|---|---|
+| Citron   | ✔️       | 📱 💻 💽 🤖     |   |   |
+| Ryubing  | ✔️       |             |   |   |
+| Ziunx    | ✔️       |             |   |   |
+| Pine     | ✔️       |             |   |   |
+| Sudachi  | ✔️       |             |   |   |
+| MeloNX   | ✔️       |             |   |   |
+| Strato   | ❌       |             |   |   |
+| EggNS    | ❓       |             |   |   |
+| Torzu    | ✔️       |             |   |   |
+| Kaijinix | ❌       |             |   |   |
+| Pomelo   | ✔️       |             |   |   |
+| Yuzu     | ❌       |             |   |   |
+| Ryujinx  | ❌       |             |   |   |
+| Uzuy     | ❌       |             |   |   |
+
+
+
 - [Citron](https://citron-emu.org/)
   - [Git Releases](https://git.citron-emu.org/Citron/Citron/releases)
   - [GitHub Fork](https://github.com/citron-emu/citron)
