@@ -1,1 +1,3 @@
-
+- Cemu
+- decaf-emu
+- Cemu (Android)
