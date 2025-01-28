@@ -1,3 +1,4 @@
+## Emulators
 - Cemu
   - [GitHub](https://github.com/cemu-project/Cemu)
   - [Graphic Packs](https://github.com/cemu-project/cemu_graphic_packs)
@@ -6,5 +7,5 @@
   - [YGOmod](https://github.com/YGOmod/Cemu)
 - [decaf-emu]([url](https://github.com/decaf-emu/decaf-emu))
 
-### Mods
+## Mods
   - [Second Wind (BOTW)](https://github.com/CEObrainz/Second-Wind)
