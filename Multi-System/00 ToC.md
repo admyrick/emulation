@@ -2,3 +2,12 @@
 - Lemuroid
 - Provenance
 - ares
+- Folium
+- Ignited
+- Altea
+- BizHawk
+- higan
+- Delta
+- OpenEmu
+- Mesen2
+- EmulatorJS
