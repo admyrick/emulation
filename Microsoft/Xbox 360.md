@@ -1,0 +1,7 @@
+- Xenia
+  - [Stable](https://github.com/xenia-project/xenia)
+  - [Canary](https://github.com/xenia-canary/xenia-canary)
+    - [Xenia Game Patches](https://github.com/xenia-canary/game-patches)
+  - [Xenia Manager](https://github.com/xenia-manager/xenia-manager)
+    - [Optimized Settings](https://github.com/xenia-manager/Optimized-Settings)
+  - [Game-Settings](https://github.com/A1eNaz/Xenia-Game-Settings)
