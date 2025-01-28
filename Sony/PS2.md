@@ -1,6 +1,8 @@
+- [PCSX2](https://github.com/PCSX2/pcsx2)
+  - [Widescreen Patches](https://github.com/PCSX2/pcsx2_patches)
+  - [60fps Patches](https://github.com/PeterDelta/PCSX2)
+- [Play!](https://github.com/jpd002/Play-)
+  - [Play Compatibility](https://github.com/jpd002/Play-Compatibility)
+- [EtherealSX2](https://github.com/Trixarian/EtherealSX2)
 - AetherSX2
 - NetherSX2
-- Play!
-- PCSX2
-  - [Patches](https://github.com/PCSX2/pcsx2_patches)
-
