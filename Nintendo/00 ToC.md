@@ -8,4 +8,4 @@
 - Nintendo 64
 - Switch
 - Wii U
-
+- Virtual Boy
