@@ -1,0 +1,47 @@
+- AD Boy
+- Altea
+- ArcEmu
+- BigPEmu
+- Commander X16
+- Consoles
+- Delta
+  - Delta Legacy
+- DolphiniOS
+- Emu64 XL
+- eNES
+- Flycast
+- Folium
+- Gamma
+- GEKKO C64
+- GenZD
+  - GenZD Zero
+- iAltair
+- iDOS 2
+- iDOS 3
+- iFBAs
+- iGBA
+- Ignited
+- iMSX2
+- Linking Boy
+- MAME4iOS
+- Mini vMac
+- NiN10
+- Play!
+- PPSSPP
+  - PPSSPP Gold
+- Provenance
+- RetroArch
+- Retroman
+- SameBoy
+- ScummVM
+- Spectaculator
+- Super16Bit
+- Sutato
+- UTM SE
+- VirtualFriend
+- VirtualKim
+- WOZNIAC-1
+- WOZNIAC-68
+- Yaba Sanshiro 2
+  - Yaba Sanshiro 2 Lite
+- ZX81
