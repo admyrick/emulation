@@ -21,15 +21,10 @@
 
 ## Nintendo
 
-### NES
+### DS
 | **Emulator** | **Platforms** | **Sideload** | **App Store** |
 |--------------|---------------|--------------|---------------|
-| eNES         | NES        | ❌            | [eNES](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166)          |
-
-### SNES
-| **Emulator** | **Platforms** | **Sideload** | **App Store** |
-|--------------|---------------|--------------|---------------|
-| Super16Bit   | SNES          | ❌            | [Super16Bit](https://apps.apple.com/sg/app/super16bit/id6498314680)    |
+| Delta Legacy | NDS           | ❌            | [Delta Legacy](https://apps.apple.com/us/app/delta-legacy/id6504887406)  |
  
 ### GB/GBC/GBA
 | **Emulator** | **Platforms** | **Sideload** | **App Store** |
@@ -43,10 +38,22 @@
 | **Emulator** | **Platforms** | **Sideload** | **App Store** |
 |--------------|---------------|--------------|---------------|
 | [DolphiniOS](https://github.com/OatmealDome/dolphin-ios/)   | GameCube/Wii  | GitHub       | ❌             |
-### Nintendo DS
+
+### NES
 | **Emulator** | **Platforms** | **Sideload** | **App Store** |
 |--------------|---------------|--------------|---------------|
-| Delta Legacy | NDS           | ❌            | [Delta Legacy](https://apps.apple.com/us/app/delta-legacy/id6504887406)  |
+| eNES         | NES        | ❌            | [eNES](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166)          |
+
+### SNES
+| **Emulator** | **Platforms** | **Sideload** | **App Store** |
+|--------------|---------------|--------------|---------------|
+| Super16Bit   | SNES          | ❌            | [Super16Bit](https://apps.apple.com/sg/app/super16bit/id6498314680)    |
+
+### Switch
+| **Emulator** | **Platforms** | **Sideload** | **App Store** |
+|--------------|---------------|--------------|---------------|
+| Pomelo       | Switch        | [Direct](https://pomelo-emu.github.io/downloads)       | ❌             |
+| MeloNX       | Switch        | [Direct](https://melonx.org/)       | ❌             |
 
 ### Virtual Boy
 | **Emulator**  | **Platforms** | **Sideload** | **App Store** |
