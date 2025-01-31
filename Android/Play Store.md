@@ -1,9 +1,12 @@
 ## Multi-System
-- [RetroArch](https://play.google.com/store/apps/details?id=com.retroarch)
-- [Lemuroid](https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita.pro)
-- [Pizza Boy SC Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboyscpro)
-- [ClassicBoy Pro](https://play.google.com/store/apps/details?id=com.portableandroid.classicboy&hl=en&gl=us)
-- [ClassicBoy Lite](https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite&hl=en&gl=us)
+| Emulator         | Platforms                                    | Play Store |
+|------------------|----------------------------------------------|------------|
+| RetroArch        | 50 Cores                                     | [Link](https://play.google.com/store/apps/details?id=com.retroarch)       |
+| Retro Arch Plus  | 120+ Cores                                   | [Link](https://play.google.com/store/apps/details?id=com.retroarch.aarch64)       |
+| Lemuroid         | Up to PSP                                    | [Link](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)       |
+| Pizza Boy SC Pro | Genesis/Mega Drive, Master System, Game Gear | [Link](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboyscpro)       |
+| ClassicBoy Lite  | Up to PS1                                    | [Link](https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite&hl=en&gl=us)       |
+| ClassicBoy Pro   | Up to Saturn                                 | [Link](https://play.google.com/store/apps/details?id=com.portableandroid.classicboy&hl=en&gl=us)       |
 
 ## Arcade
 - MAME4droid
