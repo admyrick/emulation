@@ -51,6 +51,7 @@
 - [Pomelo](https://pomelo-emu.github.io/)
   - [Downloads](https://pomelo-emu.github.io/downloads.html)
   - [Compatibility](https://pomelo-emu.github.io/titles.html)
+  - [GitHub](https://github.com/Pomelo-Emu/pomelo-emu.github.io)
 - Yuzu
   - [Website Mirror](https://yuzu-mirror.github.io/)
 - Uzuy
