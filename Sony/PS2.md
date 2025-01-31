@@ -6,3 +6,4 @@
 - [EtherealSX2](https://github.com/Trixarian/EtherealSX2)
 - AetherSX2
 - NetherSX2
+- [ChonkyStation2](https://github.com/liuk7071/ChonkyStation2)
