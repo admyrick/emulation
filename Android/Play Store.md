@@ -32,8 +32,6 @@
 | ColEm+   | ColecoVision | [Link](https://play.google.com/store/apps/details?id=com.fms.colem.deluxe)       |
 
 ## Commodore
-
-- Commodore 64
 | Emulator | Platforms    | Play Store |
 |----------|--------------|------------|
 | C64.emu  | Commodore 64 | [Link](https://play.google.com/store/apps/details?id=com.explusalpha.C64Emu)       |
