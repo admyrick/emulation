@@ -73,6 +73,7 @@
 | My Boy!           | GBA          | [Link](https://play.google.com/store/apps/details?id=com.fastemulator.gba)       |
 | Pizza Boy A Basic | GBA          | [Link](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygba)       |
 | Pizza Boy A Pro   | GBA          | [Link](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygbapro)       |
+| Linkboy   | GBA          | [Link](https://play.google.com/store/apps/details?id=com.pixelrespawn.linkboy)       |
 | Dolphin           | GameCube/Wii | [Link](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu)       |
 | NostalgiaNES      | NES          | [Link](https://play.google.com/store/apps/details?id=com.nostalgiaemulators.neslite)       |
 | NostalgiaNES Pro     | NES          | [Link](https://play.google.com/store/apps/details?id=com.nostalgiaemulators.nesfull)       |
