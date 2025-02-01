@@ -1,7 +1,9 @@
 
-| 🔴 | Doesn't Boot |
-| 🟡 | Crash/Freeze |
-| 🟢 | Boots        |
+| Icon | Definition   |
+|------|--------------|
+| 🔴    | Doesn't Boot |
+| 🟡    | Crash/Freeze |
+| 🟢    | Boots        |
 
 
 | Game                                 | Boots | Notes                            | Device           |
