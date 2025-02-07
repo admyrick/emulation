@@ -2,6 +2,7 @@
   - [Widescreen Patches](https://github.com/PCSX2/pcsx2_patches)
   - [60fps Patches](https://github.com/PeterDelta/PCSX2)
 - [Play!](https://github.com/jpd002/Play-)
+  - [Direct](https://purei.org/downloads/play/stable/)
   - [Play Compatibility](https://github.com/jpd002/Play-Compatibility)
 - [EtherealSX2](https://github.com/Trixarian/EtherealSX2)
 - AetherSX2
