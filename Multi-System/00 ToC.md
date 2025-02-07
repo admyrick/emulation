@@ -1,3 +1,7 @@
+- [RetroArch](https://retroarch.com/)
+  - [Stable](https://buildbot.libretro.com/stable/)
+  - [Nightly](https://buildbot.libretro.com/nightly)
+  - [Play Store](https://play.google.com/store/apps/details?id=com.retroarch)
 - [ares](https://github.com/ares-emulator/ares)
 - [BizHawk](https://github.com/TASEmulators/BizHawk)
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
