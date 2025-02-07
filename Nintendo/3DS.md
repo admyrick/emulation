@@ -1,6 +1,7 @@
 - [Borked3DS](https://x.com/XWineOne/status/1883901394836689276)
 - [Mandarine](https://github.com/mandarine3ds/mandarine)
-- [Panda3DS](https://github.com/wheremyfoodat/Panda3DS)
+- [Panda3DS](https://panda3ds.com/download.html)
+  - [GitHub](https://github.com/wheremyfoodat/Panda3DS)
 - [Azahar](https://github.com/azahar-emu/azahar)
 - [Citra]
   - [PabloMK7](https://github.com/PabloMK7/citra)
