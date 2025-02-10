@@ -12,3 +12,4 @@
   - [Luigi](http://sm64pc.info/forum/viewtopic.php?f=2&t=69)
   - [Wario](https://sm64pc.info/forum/viewtopic.php?p=437&i=1)
   - [Render96/ModelPack](https://github.com/Render96/ModelPack)
+- [Mario Kart Wii Deluxe](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe)
