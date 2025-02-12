@@ -72,3 +72,4 @@
   - [Switch Ultrawide Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
   - [TOTK Mods Collection](https://github.com/hoverbike1/TOTK-Mods-collection)
   - [Second Wind (BOTW)](https://github.com/CEObrainz/Second-Wind-Switch)
+  - [Pokemon Compass (Scarlet and Violet)](https://www.nexusmods.com/pokemonscarletandviolet/mods/21)
