@@ -81,4 +81,7 @@
 | YEAH! YOU WANT "THOSE GAMES," RIGHT? | 🔴      |                                  | AYN Odin 2 (Pro) |
 | Shantae and the Seven Sirens         | 🔴      |                                  | AYN Odin 2 (Pro) |
 | Cult of the Lamb                     | 🔴      |                                  | AYN Odin 2 (Pro) |
-|                                      |        |                                  |                  |
+| Cuphead                              | 🟢      | [Source](https://www.reddit.com/r/EmulationOnAndroid/comments/1im95dn/i_tested_200_games_on_pluvia_steam_client_for/)                           | Retroid Pocket 5 |
+| Aragami                              | 🟢      | [Source](https://www.reddit.com/r/EmulationOnAndroid/comments/1im95dn/i_tested_200_games_on_pluvia_steam_client_for/)                           | Retroid Pocket 5 |
+| Turnip Boy Commits Tax Evasion       | 🟢      | [Source](https://www.reddit.com/r/EmulationOnAndroid/comments/1im95dn/i_tested_200_games_on_pluvia_steam_client_for/)                           | Retroid Pocket 5 |
+| Downwell                             | 🟢      | [Source](https://www.reddit.com/r/EmulationOnAndroid/comments/1im95dn/i_tested_200_games_on_pluvia_steam_client_for/)                           | Retroid Pocket 5 |
