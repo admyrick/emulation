@@ -43,7 +43,7 @@
   - [Ryujinx-8GB](https://github.com/HDPacks/Ryujinx-8GB)
 - [Sudachi]
   - [GitHub](https://github.com/emuplace/sudachi.emuplace.app)
-- [MeloNX](https://github.com/MeloNX-Emu/.github)
+- [MeloNX](https://git.743378673.xyz/MeloNX/MeloNX)
 - [Strato](https://github.com/strato-emu/strato)
 - [EggNS](http://www.eggns.xyz/)
 - [Torzu](https://notabug.org/litucks/torzu)
