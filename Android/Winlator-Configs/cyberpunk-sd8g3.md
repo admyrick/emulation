@@ -1,9 +1,3 @@
-[Awesome Selfhosted GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
-[changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-[Portainer Templates](https://github.com/Lissy93/portainer-templates)
-
-
-
 - Source: [Reddit](https://www.reddit.com/r/EmulationOnAndroid/comments/1isani1/cyberpunk_2077_sd8gen3/)
 - Device: OnePlus 13R
 - Processor: Qualcomm Snapdragon 8 Gen 3
@@ -37,7 +31,7 @@
 	- Video Memory Size: N/A
 	- MESA_SHADER_CACHE_MAX_SIZE: N/A
 	- Processor Affinity: N/A
-- Misc: N/A
+- Misc: Added mods to improve performance https://www.nexusmods.com/cyberpunk2077/mods/10490?tab=files&file_id=101750
 - Game Settings: 
 	- Upscale Resolution: FFX Super Resolution 3
 	- FFX Super Resolution 3: Automatic
