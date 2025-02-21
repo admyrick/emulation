@@ -18,3 +18,4 @@
 - EmulationStation
   - [GitHub](https://github.com/Aloshi/EmulationStation)
 - [emuze](https://github.com/bmsuseluda/emuze)
+- [RetroHub](https://github.com/retrohub-org/retrohub)
