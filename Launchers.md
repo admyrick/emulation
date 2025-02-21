@@ -17,3 +17,4 @@
 - [Nostlan](https://github.com/quinton-ashley/nostlan)
 - EmulationStation
   - [GitHub](https://github.com/Aloshi/EmulationStation)
+- [emuze](https://github.com/bmsuseluda/emuze)
