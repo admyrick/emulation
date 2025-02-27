@@ -10,6 +10,7 @@
 - Environment Variables: VK_INSTANCE_LAYERS=VK_LAYER_MESA_OVERLAY
 - Box64 Version: 0.2.7
 - Box64 Preset: Performance
+- wine-9.2-custom
 - Game Controller: Modern (Xinput like)
 - [x] Enable Xinput for Games in Wine
 - [ ] [ ] Enable Dinput for Games in Wine
