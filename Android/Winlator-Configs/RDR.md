@@ -1,0 +1,15 @@
+- Source: [Reddit](https://www.reddit.com/r/EmulationOnAndroid/comments/1iyslgn/red_dead_redemption_winlator_glibc_v713_v3/)
+- Device: Retroid Pocket 5
+- Version: Winlator@Frost Glibc v7.1.3 V3
+- Screen Size: 1280x720
+- Graphics Driver: Turnip 24.0.9
+- DX Wrapper: VKD3D
+- DX Wrapper -> version: 2.13
+- DX Wrapper -> VKD3D Feature Level: 12.2 / 12_2
+- Audio Driver: PulseAudio
+- Environment Variables: VK_INSTANCE_LAYERS=VK_LAYER_MESA_OVERLAY
+- Box64 Version: 0.2.7
+- Box64 Preset: Performance
+- Game Controller: Modern (Xinput like)
+- [x] Enable Xinput for Games in Wine
+- [ ] [ ] Enable Dinput for Games in Wine
