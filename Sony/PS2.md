@@ -13,3 +13,6 @@
   - [NetherSX2 Classic](https://github.com/Trixarian/NetherSX2-classic)
   - [MDrzd/NetherSX2](https://github.com/MDrzd/NetherSX2)
 - [ChonkyStation2](https://github.com/liuk7071/ChonkyStation2)
+
+## Tools
+- [PS2 Covers](https://github.com/xlenore/ps2-covers)
