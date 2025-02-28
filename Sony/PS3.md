@@ -3,3 +3,13 @@
   - [GitHub](https://github.com/RPCS3/rpcs3)
 - ChonkeyStation3
   - [GitHub](https://github.com/liuk7071/ChonkyStation3)
+- rpcs3droid
+- RPCS3-Android
+- aPS3e
+  - [Website](https://aenu.cc/aps3e/)
+  - [Discord](https://discord.com/invite/kmJp3urC)
+  - [Subreddit](https://www.reddit.com/r/aPS3e)
+  - [App Downloads](http://aenu.ysepan.com/)
+    - [MEGA](https://mega.nz/file/cz8UmBoI#V4CKVcij4iELQXYcWDe3S3CzDzDXo3oBvK0Q1xqNSo0)
+  - [tinyproot/APS3e](https://github.com/tinyproot/APS3e)
+  - 
