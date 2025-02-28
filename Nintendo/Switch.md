@@ -45,6 +45,7 @@
   - [GitHub](https://github.com/emuplace/sudachi.emuplace.app)
 - [MeloNX](https://git.743378673.xyz/MeloNX/MeloNX)
 - [Strato](https://github.com/strato-emu/strato)
+  - [Compatibility](https://github.com/strato-emu/compat-list/issues) 
 - [EggNS](http://www.eggns.xyz/)
 - [Torzu](https://notabug.org/litucks/torzu)
 - [Kaijinix](https://github.com/SylveonDeko/Kaijinix)
