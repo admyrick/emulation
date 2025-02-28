@@ -19,3 +19,6 @@
   - [GitHub](https://github.com/Aloshi/EmulationStation)
 - [emuze](https://github.com/bmsuseluda/emuze)
 - [RetroHub](https://github.com/retrohub-org/retrohub)
+- Nostlan
+	- [Website](https://quinton-ashley.github.io/nostlan-web)
+ 	- [GitHub](https://github.com/quinton-ashley/nostlan)
