@@ -1,5 +1,6 @@
 - [Flycast](https://github.com/flyinghead/flycast)
   - [CI Builds](https://flyinghead.github.io/flycast-builds/)
   - [Texture Pack List](https://www.reddit.com/r/Flycast_texture_packs/comments/1hibzel/master_texture_pack_list_read_me_first/)
+  - [Widescreen Compatibility and Cheat Chart](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart)
 - Flycast Dojo
 - [Redream](https://redream.io/download)
