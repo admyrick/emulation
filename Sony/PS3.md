@@ -16,7 +16,7 @@
   - [App Downloads](http://aenu.ysepan.com/)
     - [MEGA](https://mega.nz/file/cz8UmBoI#V4CKVcij4iELQXYcWDe3S3CzDzDXo3oBvK0Q1xqNSo0)
   - [tinyproot/APS3e](https://github.com/tinyproot/APS3e)
-  - 
+  - [Compatibility](https://docs.google.com/spreadsheets/d/1XhAc9wfOMbkSXsZhXqQvzYTokYhEht40rG1PdCoEIjM/edit?gid=0#gid=0)
 
 ## Tools
 - [PS3GameUpdateDownloader](https://github.com/shinrax2/PS3GameUpdateDownloader)
